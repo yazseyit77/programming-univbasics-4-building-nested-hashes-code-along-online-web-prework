@@ -14,7 +14,7 @@ def third_challenge
         :age => "15"
         },
       :hero_friends => []
-   }, 
+   },
    :capulet => {
       :patriarch => {
         :name => "Lord Capulet",
@@ -32,5 +32,5 @@ def third_challenge
    }
   }
 
-  
+
 end
